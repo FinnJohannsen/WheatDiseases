@@ -6,7 +6,7 @@ https://github.com/FinnJohannsen/WheatDiseases/
 
 ## Description
 
-Project for the opencampus Tnesorflow course. The goal of this project is to use machine learning to classify between 15 different kinds of wheat diseases using the "Wheat Plant Diseases" Dataset from kaggle as a basis. Link to the dataset: https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases/data
+Project for the opencampus Tensorflow course. The goal of this project is to use machine learning to classify between 15 different kinds of wheat diseases using the "Wheat Plant Diseases" Dataset from kaggle as a basis. Link to the dataset: https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases/data
 
 ### Task Type
 
