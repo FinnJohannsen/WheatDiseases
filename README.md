@@ -2,15 +2,15 @@
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+https://github.com/FinnJohannsen/WheatDiseases/
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+Project for the opencampus Tnesorflow course. The goal of this project is to use machine learning to classify between 15 different kinds of wheat diseases using the "Wheat Plant Diseases" Dataset from kaggle as a basis. Link to the dataset: https://www.kaggle.com/datasets/kushagra3204/wheat-plant-diseases/data
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Image Classification 
 
 ### Results Summary
 
