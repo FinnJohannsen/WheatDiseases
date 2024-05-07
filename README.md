@@ -1,4 +1,4 @@
-# Wheat Disease Classification
+# Wheat Disease Classification by Finn Johannsen and Philipp Scheinert
 
 ## Repository Link
 
