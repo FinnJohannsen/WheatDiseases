@@ -1,4 +1,4 @@
-# [Your Project Title Here]
+# Wheat Disease Classification
 
 ## Repository Link
 
