@@ -7,10 +7,10 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 1**: Leaf and spike wheat disease detection & classification using an improved deep convolutional architecture
 
   - **https://www.sciencedirect.com/science/article/pii/S2352914821001313**
-  - **Objective**: **Classify 9 wheat diseases from the LWDCD2020 dataset**:
-  - **Methods**: **CNN (21 Layers) with 2x2 maxpooling**:
-  - **Outcomes**: **The work achieved a 97.88% accuracy on the 10 classes(9 diseases +1 healthy class)**:
-  - **Relation to the Project**: **We are doing the same thing for a Dataset with 14 different diseases instead of 9**:
+  - **Objective**: **Classify 9 wheat diseases from the LWDCD2020 dataset**
+  - **Methods**: **CNN (21 Layers) with 2x2 maxpooling**
+  - **Outcomes**: **The work achieved a 97.88% accuracy on the 10 classes(9 diseases +1 healthy class)**
+  - **Relation to the Project**: **We are doing the same thing for a Dataset with 14 different diseases instead of 9**
 
 - **Source 2**: [A deep learning based approach for automated plant disease classification using vision transformer]
 
