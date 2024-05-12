@@ -12,7 +12,7 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: **The work achieved a 97.88% accuracy on the 10 classes(9 diseases +1 healthy class)**
   - **Relation to the Project**: **We are doing the same thing for a Dataset with 14 different diseases instead of 9**
 
-- **Source 2**: [A deep learning based approach for automated plant disease classification using vision transformer]
+- **Source 2**: A deep learning based approach for automated plant disease classification using vision transformer
 
   - **https://www.nature.com/articles/s41598-022-15163-0**
   - **Objective**: **Studying lightweight vision transformer for plant disease classification**
@@ -20,7 +20,7 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: **ViT had a higher accuracy compared to other tested models, but was smaller and faster than big state of the art models**
   - **Relation to the Project**: **We might try a transformer based architecture**
 
-- **Source 3**: [Using Deep Learning for Image-Based Plant Disease Detection]
+- **Source 3**: Using Deep Learning for Image-Based Plant Disease Detection
 
   - **https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2016.01419/full**
   - **Objective**: **train exisitng models to detect diseases on different plants**
