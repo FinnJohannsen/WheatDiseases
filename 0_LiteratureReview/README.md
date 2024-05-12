@@ -15,8 +15,8 @@ Approaches or solutions that have been tried before on similar projects.
 - **Source 2**: [A deep learning based approach for automated plant disease classification using vision transformer]
 
   - **https://www.nature.com/articles/s41598-022-15163-0**
-  - **Objective**: **Studying lightweight vision transformer for plant disease classification
-  - **Methods**: **Comparing CNN and transformer blocks as well as combination
+  - **Objective**: **Studying lightweight vision transformer for plant disease classification**
+  - **Methods**: **Comparing CNN and transformer blocks as well as combination**
   - **Outcomes**: **ViT had a higher accuracy compared to other tested models, but was smaller and faster than big state of the art models**
   - **Relation to the Project**: **We might try a transformer based architecture**
 
