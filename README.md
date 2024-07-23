@@ -27,5 +27,5 @@ Image Classification
 5. **[Presentation](4_Presentation/README.md)**
 
 ## Cover Image
-
+Generated using DALL·E 2024-06-05 19.44.04 - Project cover titled 'Detection of Wheat Diseases with Machine Learning'. Background features a vast, sunlit wheat field under a clear, bright blue sky
 ![Project Cover Image](CoverImage/CoverImage/DALL·E 2024-06-05 19.44.04 - Project cover titled 'Detection of Wheat Diseases with Machine Learning'. Background features a vast, sunlit wheat field under a clear, bright blue sk.png)
